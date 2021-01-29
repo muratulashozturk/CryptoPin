@@ -9,6 +9,7 @@ Windows
 
 # Changing Currency
 To change currency to ETH or something, open "Form1.cs" then search for "BITSTAMP:BTCUSD". 
+
 Symbols are available at: https://tr.tradingview.com/widget/single-ticker/
 
 # Known Bugs
