@@ -8,7 +8,7 @@ Windows
 ![Windows](https://media.discordapp.net/attachments/800486758483230764/804811761785897000/Windows.png)
 
 # Changing Currency
-To change currency to ETH or something, open "Form1.cs" then search for "BITSTAMP:BTCUSD". 
+To change currency to ETH or something, open "Form1.cs" then search for "BITSTAMP:BTCUSD" then change it to your symbol. 
 
 Symbols are available at: https://tr.tradingview.com/widget/single-ticker/
 
